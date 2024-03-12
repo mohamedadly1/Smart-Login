@@ -1,0 +1,109 @@
+*{
+    background-color: #24353f;
+}
+
+body{
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.group{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+#head1{
+    color: rgb(23, 162, 184);
+}
+
+#email{
+    color: white !important;
+    border-radius: 2px;
+    border:2px solid white ;
+    background-color:#24353f ;
+    font-weight: 600;
+}
+#email::placeholder{
+    color: white;
+    opacity: 1;
+}
+
+
+#password{
+    color: white !important;
+    border-radius: 2px;
+    border:2px solid white ;
+    background-color:#24353f ;
+    font-weight: 600;
+}
+#password::placeholder{
+    color: white;
+    opacity: 1;
+}
+.group a{
+    text-decoration: none;
+}
+.group a:hover{
+    text-decoration:underline;
+}
+
+
+#emailup{
+    color: white !important;
+    border-radius: 2px;
+    border:2px solid white ;
+    background-color:#24353f ;
+    font-weight: 600;
+}
+#emailup::placeholder{
+    color: white;
+    opacity: 1;
+}
+
+
+#passwordup{
+    color: white !important;
+    border-radius: 2px;
+    border:2px solid white ;
+    background-color:#24353f ;
+    font-weight: 600;
+}
+#passwordup::placeholder{
+    color: white;
+    opacity: 1;
+}
+
+
+
+#nameup{
+    color: white !important;
+    border-radius: 2px;
+    border:2px solid white ;
+    background-color:#24353f ;
+    font-weight: 600;
+}
+#nameup::placeholder{
+    color: white;
+    opacity: 1;
+}
+
+
+#anc{
+    text-decoration: none;
+}
+
+
+#namee {
+    color:rgb(23, 162, 184); 
+}
+.headd{
+    color: red;
+}
+
+#right{
+    color: green;
+}
